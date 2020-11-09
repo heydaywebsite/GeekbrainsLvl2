@@ -2,11 +2,11 @@
 
 Можно посмотреть пример в записи вебинара (в материалах к уроку): [https://geekbrains.ru/lessons/83415](https://geekbrains.ru/lessons/83415)
 
-- [NodeJS](https://github.com/HaseProgram/GeekbrainsLvl2/lectures/blob/main/lecture1.md#nodejs)
-- [NPM](https://github.com/HaseProgram/GeekbrainsLvl2/lectures/blob/main/lecture1.md#npm)
-- [Пишем сервер](https://github.com/HaseProgram/GeekbrainsLvl2/lectures/blob/main/lecture1.md#пишем-сервер)
-- [Деплоим в интернет](https://github.com/HaseProgram/GeekbrainsLvl2/lectures/blob/main/lecture1.md#деплоим-в-интернет)
-- [Полезные ссылки](https://github.com/HaseProgram/GeekbrainsLvl2/lectures/blob/main/lecture1.md#полезные-ссылки)
+- [NodeJS](https://github.com/HaseProgram/GeekbrainsLvl2/blob/main/lectures/lesson1.md#nodejs)
+- [NPM](https://github.com/HaseProgram/GeekbrainsLvl2/blob/main/lectures/lesson1.md#npm)
+- [Пишем сервер](https://github.com/HaseProgram/GeekbrainsLvl2/blob/main/lectures/lesson1.md#пишем-сервер)
+- [Деплоим в интернет](https://github.com/HaseProgram/GeekbrainsLvl2/blob/main/lectures/lesson1.md#деплоим-в-интернет)
+- [Полезные ссылки](https://github.com/HaseProgram/GeekbrainsLvl2/blob/main/lectures/lesson1.md#полезные-ссылки)
 
 ## NodeJS
 Для работы понадобится собственно платформа ``Node.js``. Если вы ее еще не устанавливали, то вам придется это сделать. Скачать ``Node.js`` можно с сайта [https://nodejs.org/](https://nodejs.org/). Устанавливать советую версию LTS (то есть стабильную версию). Для пользователей линукса и MacOS это можно сделать через ``homebrew`` [(небольшой гайд)](https://www.dyclassroom.com/howto-mac/how-to-install-nodejs-and-npm-on-mac-using-homebrew).
